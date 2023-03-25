@@ -1,2 +1,2 @@
 # Social Media
-Sosyal Medya ile ilgili bilgilerin olduğu bir projedir.
+It is a project with information about Social Media.

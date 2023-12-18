@@ -1,2 +1,2 @@
 # Social Media
-It is a project with information about Social Media.
+It's a project with information about Social Media.
